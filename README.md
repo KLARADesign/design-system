@@ -18,7 +18,7 @@ This site provides a range of resources for designers, developers and marketers,
 
 ## WONDERING HOW TO CONTRIBUTE?
 
- We welcome all feedback, designs, or ideas in order to produce the best possible experience for our users. If you're interested in contributing, check out our  to get started.
+ We welcome all feedback, designs, or ideas in order to produce the best possible experience for our users. If you're interested in contributing, let's send us an issue on [GitHub](https://github.com/KLARADesign/design-system/issues/new). 
 
 
 
