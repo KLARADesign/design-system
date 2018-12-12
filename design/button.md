@@ -34,7 +34,7 @@ Buttons should be used in situations where users might need to:
 
 ### Types
 
-
+![](../.gitbook/assets/group.jpg)
 
 
 
