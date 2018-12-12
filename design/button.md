@@ -63,5 +63,7 @@ The standard button for most use cases. Or use with the Primary button for for a
 
 ## Anatomy
 
+![](../.gitbook/assets/anatomy_button.jpg)
+
 
 
