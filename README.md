@@ -12,9 +12,9 @@ This site provides a range of resources for designers, developers and marketers,
 
 #### ![](.gitbook/assets/22-gherkine-building.png)   BRANDING                         **** ![](.gitbook/assets/10-graphic-design-golden-ratio-hand-drawing.png)  **DESIGN**
 
-#### \*\*\*\*![](.gitbook/assets/11-html-programming-code-book.png)    **DEVELOP**                            ![](.gitbook/assets/05-pencil-paper-writing.png)  **CONTENT**
+#### \*\*\*\*![](.gitbook/assets/11-html-programming-code-book.png)   **DEVELOP**                            ![](.gitbook/assets/05-pencil-paper-writing.png)  **CONTENT**
 
-#### \*\*\*\*![](.gitbook/assets/26-business-advertising-promotion-sale.png)    **MARKETING**
+#### \*\*\*\*![](.gitbook/assets/26-business-advertising-promotion-sale.png)   **MARKETING**
 
 ## WONDERING HOW TO CONTRIBUTE?
 
