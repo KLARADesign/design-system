@@ -38,7 +38,7 @@ Buttons should be used in situations where users might need to:
 
 ### Button vs Link
 
-* Use a **link** when you’re **navigating to another place**, such as: a "view all" page, "An Truong" profile, a page "skip link" etc.
+* Use a **link** when you’re **navigating to another place**, such as: a "view all" page, "Anne James" profile, a page "skip link" etc.
 * Use **buttons** when you are **performing an action**, such as: "submit," "merge," "create new," "upload," etc.
 
 ## Types
