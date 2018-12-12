@@ -51,7 +51,9 @@ To call attention to an action on a form, or highlight the strongest call to act
 
 #### Anatomy
 
-A. Button label                              B. Container                              C. Icon \(optional\)
+* A. Button label
+* B. Container
+* C. Icon \(optional\)
 
 #### Versions
 
@@ -65,7 +67,9 @@ The standard button for most use cases. Or use with the Primary button for for a
 
 #### Anatomy
 
-A. Button label                              B. Container                              C. Icon \(optional\)
+* A. Button label
+* B. Container
+* C. Icon \(optional\)
 
 #### Versions
 
@@ -73,11 +77,16 @@ A. Button label                              B. Container                       
 
 #### Anatomy
 
-A. Button label                              B. Container                              C. Icon \(Optional\)
+* A. Button label
+* B. Container
+* C. Icon \(Optional\)
 
 #### Versions
 
 ### 4. Plan button
 
-A. Button label \(optional\)                              B. Icon
+#### Anatomy
+
+* A. Button label \(optional\)
+* B. Icon
 
