@@ -9,13 +9,15 @@ description: >-
 
 ![](../.gitbook/assets/example_button.jpg)
 
+### 
+
 ### Principles
 
 * **Identifiable**:  Buttons should indicate that they can trigger an action.
 * **Findable**:  Buttons should be easy to find among other elements, including other buttons.
 * **Clear**:  A button’s action and state should be clear.
 
-### Usage
+## Usage
 
 Buttons are typically placed throughout your UI, in places like:
 
@@ -32,9 +34,27 @@ Buttons should be used in situations where users might need to:
 * Trigger a new UI element to appear on the page
 * Specify a new or next step in a process
 
-### Types
+## Types
 
 ![](../.gitbook/assets/group.jpg)
+
+**1. Gradient button** \(Primary button\)
+
+To call attention to an action on a form, or highlight the strongest call to action on a page. Primary buttons should only appear once per area \(screen/ card/ form/ section/ modal...\). Not every area requires a primary button.
+
+**2. White button** \(Secondary button\)
+
+The standard button for most use cases. Or use with the Primary button for for actions that are less crucial such as “Cancel".
+
+**3. Border button**
+
+
+
+**4. Plan button**
+
+\*\*\*\*
+
+## Anatomy
 
 
 
