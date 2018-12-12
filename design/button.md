@@ -43,27 +43,39 @@ Buttons should be used in situations where users might need to:
 
 ## Types
 
-![](../.gitbook/assets/group.jpg)
+![](../.gitbook/assets/anatomy_button.jpg)
 
-#### **1. Gradient button** \(Primary button\)
+### 1. Gradient button \(Primary button\)
 
 To call attention to an action on a form, or highlight the strongest call to action on a page. Primary buttons should only appear once per area \(screen/ card/ form/ section/ modal...\). Not every area requires a primary button.
 
-#### **2. White button** \(Secondary button\)
+#### Anatomy
 
-The standard button for most use cases. Or use with the Primary button for for actions that are less crucial such as “Cancel".
+A. Button label                              B. Container                              C. Icon \(optional\)
 
-#### **3. Border button**
-
-
-
-#### **4. Plan button**
-
-\*\*\*\*
-
-## Anatomy
-
-![](../.gitbook/assets/anatomy_button.jpg)
+#### Versions
 
 
+
+### 2. **White button** \(Secondary button\)
+
+The standard button for most use cases. Or use with the Primary button for for actions that are less crucial such as “Cancel".     
+
+#### Anatomy
+
+A. Button label                              B. Container                              C. Icon \(optional\)
+
+#### Versions
+
+### 3. Border button
+
+#### Anatomy
+
+A. Button label                              B. Container                              C. Icon \(Optional\)
+
+#### Versions
+
+### 4. Plan button
+
+A. Button label \(optional\)                              B. Icon
 
